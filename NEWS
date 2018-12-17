@@ -1,4 +1,29 @@
-GerNameR v0.1.0 (Release date: 2018-23-03)
+GerNameR v0.3.0 (Release date: 2018-12-14)
+==============
+
+* Updated dataset with additional measurements
+
+GerNameR v0.2.1 (Release date: 2018-07-09)
+==============
+
+* Added templates for ISSUES
+* Added README
+* Added code of conduct
+
+GerNameR v0.2.0 (Release date: 2018-07-06)
+==============
+
+* Added methods to retrieve ratings for names
+* Added methods to pair names from separate subsets (not only median split)
+* Added methods to convert pairs and subsets to data frames
+* Added method to randomly split sets of names
+
+GerNameR v0.1.2 (Release date: 2018-07-03)
+==============
+
+* Updated code for rlang version 0.2.0
+
+GerNameR v0.1.1 (Release date: 2018-23-03)
 ==============
 
 * Included URL in description
